@@ -1,0 +1,23 @@
+{
+  "admin": "مسؤول",
+  "user": "مستخدم",
+  "login": "تسجيل دخول",
+  "register": "تسجيل",
+  "Enteryourname": "ادخل اسمك",
+  "enteryouemail": "ادخل ايميلك",
+  "camera": "الة تصوير",
+  "Menclothing":"رجالي",
+  "jewelery": "مجوهرات",
+  "setting":"ضبط",
+  "changlanguage": "تغيير اللغة",
+  "changetheme": "تغيير النمط",
+  "thecart": "السلة",
+  "Logout": "تسجيل خروج",
+  "buy": "شراء",
+  "price": "السعر",
+  "count": "العدد",
+  "delete": "حذف",
+  "Additeme": "اضافة عنصر",
+  "deleteiteme": "حذف عنصر",
+  "edititem": "تعديل العناصر"
+}

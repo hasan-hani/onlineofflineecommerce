@@ -1,0 +1,23 @@
+{
+  "admin": "admin",
+  "user": "user",
+  "login": "login",
+  "register":"Register",
+  "Enteryourname": "Enter your name",
+  "enteryouemail": "Enter your email",
+  "camera": "Camera",
+  "Menclothing":"men_clothing",
+  "jewelery": "jewelery",
+  "setting":"Setting",
+  "changlanguage": "Change Language",
+  "changetheme": "Change theme mode",
+  "thecart": "The Cart",
+  "Logout": "Log out",
+  "buy": "buy",
+  "price": "price",
+  "count": "count",
+  "delete": "Delete",
+  "Additeme": "Add item",
+  "deleteiteme": "Delete item",
+  "edititem": "Edit item"
+}
